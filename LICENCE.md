@@ -1,9 +1,9 @@
 U.I.P. - Ultimate Icon Pack
 Copyright (c) 2026 Spirit
 
-================================================================================
+================================================================
 1. LICENSE OF THE PACK (COMPILATION)
-================================================================================
+================================================================
 
 This icon pack, including but not limited to:
 - The compilation and selection of icons
@@ -29,9 +29,9 @@ Under the following strict terms:
 
 Full legal code: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
 
-================================================================================
+================================================================
 2. OWNERSHIP OF THE ICONS AND TRADEMARKS
-================================================================================
+================================================================
 
 All individual icons, logos, symbols, and trademarks contained in this pack 
 remain the exclusive intellectual property of their respective owners 
@@ -46,9 +46,9 @@ of publicly available icons for convenience purposes only.
 The use of any icon from this pack does not grant the user any rights 
 over the underlying trademarks or copyrighted materials.
 
-================================================================================
+================================================================
 3. DISCLAIMER
-================================================================================
+================================================================
 
 This pack is provided "as is", without warranty of any kind.
 The author assumes no liability for any misuse of the icons or any 
