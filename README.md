@@ -1,1 +1,97 @@
-# UiP_logo
+# U.I.P. - Ultimate Icon Pack
+
+**Compilation ultime d'icônes pour Elgato Stream Deck**  
+Plus de 13 000 icônes uniques (SVG prioritaires + PNG) regroupant les logos des applications, services et jeux les plus populaires.
+
+Créé par **Spirit**
+
+---
+
+## ✨ Description
+
+U.I.P. (Ultimate Icon Pack) est une compilation massive d'icônes destinée au Stream Deck.  
+Elle regroupe et organise des milliers d'icônes provenant de plusieurs sources reconnues, avec une priorité donnée aux versions SVG pour une meilleure qualité et un poids réduit.
+
+Le pack contient des icônes pour :
+- Applications et logiciels
+- Services de streaming (Netflix, Disney+, Prime Video, etc.)
+- Jeux vidéo
+- Outils de productivité
+- Et bien plus encore
+
+---
+
+## 📦 Contenu
+
+- Plus de **13 000 icônes uniques**
+- Priorité aux fichiers **SVG** (plus légers et nettes)
+- Les PNG sont conservés uniquement lorsqu'aucune version SVG n'existe
+- Organisation claire dans le pack (`icons/svg/` et `icons/png/`)
+- Noms et tags optimisés pour une recherche facile dans Stream Deck
+
+---
+
+## 📥 Installation
+
+1. Télécharge le fichier `.streamDeckIconPack` depuis les **Releases**
+2. Double-clique sur le fichier
+3. Le pack apparaît automatiquement dans la bibliothèque d'icônes de Stream Deck
+
+Tu peux aussi placer manuellement le dossier dans :  
+`%appdata%\Elgato\StreamDeck\IconPacks` (Windows)
+
+---
+
+## 📜 Licence
+
+Ce pack (la compilation, l'organisation, les noms, les tags et le packaging) est sous licence :
+
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
+
+### Vous êtes libre de :
+- Partager — copier et redistribuer le pack
+- Adapter — remixer, transformer et construire à partir du pack
+
+### Aux conditions suivantes :
+- **Attribution** — Vous devez créditer **Spirit** en tant qu'auteur du pack
+- **NonCommercial** — Vous n'avez pas le droit d'utiliser ce pack à des fins commerciales
+- **ShareAlike** — Si vous modifiez le pack, vous devez distribuer vos contributions sous la même licence
+
+Licence complète : [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+
+---
+
+## ⚠️ Avertissement important (Disclaimer)
+
+**Toutes les icônes, logos et marques déposées individuels restent la propriété exclusive de leurs ayants droit respectifs** (entreprises, studios de jeux, services, etc.).
+
+Spirit (l'auteur de ce pack) **ne revendique aucun droit** de propriété, de copyright ou de marque sur les icônes individuelles contenues dans cette compilation.
+
+Ce pack est uniquement une collection personnelle et non commerciale réalisée pour des raisons de confort d'utilisation.
+
+L'utilisation des icônes de ce pack ne confère aucun droit sur les marques ou contenus protégés qu'elles représentent.
+
+---
+
+## 📚 Sources
+
+Ce pack est une compilation basée sur les projets suivants (merci à leurs auteurs) :
+
+- [Simple Icons](https://simpleicons.org/) / [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
+- [Dashboard Icons](https://github.com/homarr-labs/dashboard-icons)
+- [selfh.st icons](https://github.com/selfhst/icons) (selfhst)
+
+---
+
+## 🙏 Crédits
+
+- Auteur du pack : **Spirit**
+- Licence du pack : CC BY-NC-SA 4.0
+- Icônes individuelles : Propriété de leurs ayants droit respectifs
+
+---
+
+## ⭐ Soutenir le projet
+
+Si ce pack vous est utile, n'hésitez pas à mettre une étoile ⭐ sur le dépôt.  
+Ça fait toujours plaisir et ça aide à le faire connaître.
