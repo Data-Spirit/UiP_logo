@@ -1,6 +1,6 @@
 <!-- BANNIERE CENTRE + TITRE CENTRE -->
 <p align="center">
-  <img src="https://github.com/Data-Spirit/UiP_logo/blob/main/assets/banner.png" alt="UiP Banner">
+  <img src="https://github.com/Data-Spirit/UiP_logo/blob/main/assets/banner_01.png" alt="UiP Banner">
 </p>
 
 <h1 align="center">U.I.P. - Ultimate Icon Pack</h1>
