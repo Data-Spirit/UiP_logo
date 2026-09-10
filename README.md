@@ -51,22 +51,10 @@ Tu peux aussi placer manuellement le dossier dans :
 
 ---
 
-## 📜 Licence
+## ⭐ Soutenir le projet
 
-Ce pack (la compilation, l'organisation, les noms, les tags et le packaging) est sous licence :
-
-**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
-
-### Vous êtes libre de :
-- Partager — copier et redistribuer le pack
-- Adapter — remixer, transformer et construire à partir du pack
-
-### Aux conditions suivantes :
-- **Attribution** — Vous devez créditer **Spirit** en tant qu'auteur du pack
-- **NonCommercial** — Vous n'avez pas le droit d'utiliser ce pack à des fins commerciales
-- **ShareAlike** — Si vous modifiez le pack, vous devez distribuer vos contributions sous la même licence
-
-Licence complète : [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+Si ce pack vous est utile, n'hésitez pas à mettre une étoile ⭐ sur le dépôt.  
+Ça fait toujours plaisir et ça aide à le faire connaître.
 
 ---
 
@@ -82,7 +70,11 @@ L'utilisation des icônes de ce pack ne confère aucun droit sur les marques ou 
 
 ---
 
-## 📚 Sources
+## 🙏 Crédits et Sources
+
+- Auteur du pack : **Spirit**
+- Licence du pack : CC BY-NC-SA 4.0
+- Icônes individuelles : Propriété de leurs ayants droit respectifs
 
 Ce pack est une compilation basée sur les projets suivants (merci à leurs auteurs) :
 
@@ -92,15 +84,22 @@ Ce pack est une compilation basée sur les projets suivants (merci à leurs aute
 
 ---
 
-## 🙏 Crédits
+## 📜 Licence
 
-- Auteur du pack : **Spirit**
-- Licence du pack : CC BY-NC-SA 4.0
-- Icônes individuelles : Propriété de leurs ayants droit respectifs
+Ce pack (la compilation, l'organisation, les noms, les tags et le packaging) est sous licence :
+
+**Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
+
+### Vous êtes libre de :
+- Partager — copier et redistribuer le pack
+- Adapter — remixer, transformer et construire à partir du pack
+
+### Aux conditions suivantes :
+- **Attribution** — Vous devez créditer **Spirit** en tant qu'auteur du pack
+- **NonCommercial** — Vous n'avez pas le droit d'utiliser ce pack à des fins commerciales
+- **ShareAlike** — Si vous modifiez le pack, vous devez distribuer vos contributions sous la même licence
+
+Licence complète : [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ---
 
-## ⭐ Soutenir le projet
-
-Si ce pack vous est utile, n'hésitez pas à mettre une étoile ⭐ sur le dépôt.  
-Ça fait toujours plaisir et ça aide à le faire connaître.
