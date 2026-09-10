@@ -1,7 +1,14 @@
-# U.I.P. - Ultimate Icon Pack
+<!-- BANNIERE CENTRE + TITRE CENTRE -->
+<p align="center">
+  <img src="https://github.com/Data-Spirit/UiP_logo/blob/main/assets/banner.png" alt="UiP Banner">
+</p>
 
-**Compilation ultime d'icônes pour Elgato Stream Deck**  
-Plus de 13 000 icônes uniques (SVG prioritaires + PNG) regroupant les logos des applications, services et jeux les plus populaires.
+<h1 align="center">U.I.P. - Ultimate Icon Pack</h1>
+
+<em align="center"><b>Compilation ultime d'icônes pour Elgato Stream Deck</b>
+   <br>
+	Plus de 13 000 icônes uniques (SVG prioritaires + PNG) regroupant les logos des applications, services et jeux les plus populaires.
+   </em>
 
 Créé par **Spirit**
 
