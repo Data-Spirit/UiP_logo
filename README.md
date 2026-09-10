@@ -42,7 +42,7 @@ Le pack contient des icônes pour :
 
 ## 📥 Installation
 
-1. Télécharge le fichier `.streamDeckIconPack` depuis les **Releases**
+1. Télécharge le fichier `.streamDeckIconPack` depuis les **[Releases](https://github.com/Data-Spirit/UiP_logo/releases)**
 2. Double-clique sur le fichier
 3. Le pack apparaît automatiquement dans la bibliothèque d'icônes de Stream Deck
 
