@@ -10,6 +10,35 @@
   <em><b>- Compilation ultime d'icônes pour le Stream Deck -</b></em>
 </p>
 
+<!-- BADGES CENTRES + LIENS HYPERTEXT INCLUS -->
+<p align="center">
+
+  <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+    <img alt="License: CC BY-NC-SA 4.0" src="https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg">
+  </a>
+  
+  <a href="https://github.com/Data-Spirit/UiP_logo">
+    <img alt="Status" src="https://img.shields.io/badge/status-active-brightgreen.svg">
+  </a>
+  
+  <a href="https://github.com/Data-Spirit/UiP_logo">
+    <img alt="Unofficial" src="https://img.shields.io/badge/Ultimate_icon_Pack_:-Logo-blue.svg">
+  </a>
+
+  <a href="https://github.com/Data-Spirit/UiP_logo/releases/latest">
+    <img alt="Latest Release" src="https://img.shields.io/github/v/release/Data-Spirit/UiP_logo?sort=semver&display_name=tag&style=flat&logo=github&logoSize=auto&labelColor=grey&color=green">
+  </a>
+  
+  <a href="https://marketplace.elgato.com/">
+    <img alt="Streamdeck" src="https://img.shields.io/badge/Elgato-StreamDeck-blue?style=flat&logo=elgato&logoColor=white&logoSize=auto&label=Elgato&labelColor=black&color=white">
+  </a>
+  
+  <a href="https://github.com/Data-Spirit/UiP_logo/releases/latest">
+    <img alt="Downloads" src="https://img.shields.io/github/downloads/Data-Spirit/UiP_logo/total?style=flat&logoSize=auto&label=Downloads&labelColor=1b6078&color=grey">
+  </a>
+  
+</p>
+
 > Plus de 13 000 icônes uniques regroupant les logos des applications, services et marques les plus populaires.
 
 <p align="center"><em>- Créé par <strong><a href="https://github.com/Data-Spirit">Spirit</a></strong> -</em></p>
