@@ -5,7 +5,7 @@
 
 <h1 align="center">U.I.P. - Ultimate Icon Pack</h1>
 
-<em align="center"><b>Compilation ultime d'icônes pour Elgato Stream Deck</b>
+<em align="center"><b> - Compilation ultime d'icônes pour Elgato Stream Deck - </b>
    <br>
 	Plus de 13 000 icônes uniques (SVG prioritaires + PNG) regroupant les logos des applications, services et jeux les plus populaires.
    </em>
