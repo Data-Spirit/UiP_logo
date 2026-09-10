@@ -41,8 +41,6 @@
 
 > Plus de 13 000 icônes uniques regroupant les logos des applications, services et marques les plus populaires.
 
-<p align="center"><em>- Créé par <strong><a href="https://github.com/Data-Spirit">Spirit</a></strong> -</em></p>
-
 ---
 
 ## ✨ Description
