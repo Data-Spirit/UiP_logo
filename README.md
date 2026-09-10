@@ -43,12 +43,12 @@ Le pack contient des icônes pour :
 ## 📥 Installation
 
 <details open><summary><strong>⚡ Installation automatique</strong></summary>
-
-- Télécharge le fichier `.streamDeckIconPack` depuis les **[Releases](https://github.com/Data-Spirit/UiP_logo/releases)**.
-- Double-clique sur le fichier téléchargé.
-- Stream Deck lance automatiquement l'installation du pack.
-- Le pack apparaît ensuite dans la bibliothèque d'icônes de Stream Deck.
-
+	<blockquote>
+	- Télécharge le fichier `.streamDeckIconPack` depuis les **[Releases](https://github.com/Data-Spirit/UiP_logo/releases)**.
+	- Double-clique sur le fichier téléchargé.
+	- Stream Deck lance automatiquement l'installation du pack.
+	- Le pack apparaît ensuite dans la bibliothèque d'icônes de Stream Deck.
+	</blockquote>
 </details>
 
 <details><summary><strong>🛠️ Installation manuelle</strong></summary>
@@ -66,7 +66,7 @@ Le pack contient des icônes pour :
 
 6. Relance Stream Deck si nécessaire. Le pack devrait alors apparaître dans la bibliothèque d'icônes.
 
->[!TIPS] Windows peut masquer les extensions de fichiers./
+>[!TIP] Windows peut masquer les extensions de fichiers./
 > Si tu ne vois pas `.streamDeckIconPack`, active **Affichage → Afficher → Extensions de noms de fichiers** dans l'Explorateur Windows.
 
 </details>
