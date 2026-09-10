@@ -44,10 +44,10 @@ Le pack contient des icônes pour :
 
 <details open><summary><strong>⚡ Installation automatique</strong></summary>
 
-	1. Télécharge le fichier `.streamDeckIconPack` depuis les **[Releases](https://github.com/Data-Spirit/UiP_logo/releases)**.
-	2. Double-clique sur le fichier téléchargé.
-	3. Stream Deck lance automatiquement l'installation du pack.
-	4. Le pack apparaît ensuite dans la bibliothèque d'icônes de Stream Deck.
+1. Télécharge le fichier `.streamDeckIconPack` depuis les **[Releases](https://github.com/Data-Spirit/UiP_logo/releases)**.
+2. Double-clique sur le fichier téléchargé.
+3. Stream Deck lance automatiquement l'installation du pack.
+4. Le pack apparaît ensuite dans la bibliothèque d'icônes de Stream Deck.
 
 </details>
 
