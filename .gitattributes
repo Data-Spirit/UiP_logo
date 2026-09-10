@@ -8,4 +8,4 @@
 *.json linguist-detectable=true
 
 # SVG
-*.svg linguist-detectable=true
+*.svg linguist-detectable=false
