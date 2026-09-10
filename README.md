@@ -78,9 +78,9 @@ L'utilisation des icônes de ce pack ne confère aucun droit sur les marques ou 
 
 Ce pack est une compilation basée sur les projets suivants (merci à leurs auteurs) :
 
-- [Simple Icons](https://simpleicons.org/) / [simple-icons/simple-icons](https://github.com/simple-icons/simple-icons)
-- [Dashboard Icons](https://github.com/homarr-labs/dashboard-icons)
-- [selfh.st icons](https://github.com/selfhst/icons) (selfhst)
+- [Site : Simple Icons](https://simpleicons.org/) - [GitHub : simple-icons](https://github.com/simple-icons/simple-icons)
+- [Site : DashboardIcons](https://dashboardicons.com/) - [GitHub : Dashboard Icons](https://github.com/homarr-labs/dashboard-icons)
+- [Site : selfh](https://selfh.st/icons/) - [GitHub : selfh.st icons](https://github.com/selfhst/icons)
 
 ---
 
