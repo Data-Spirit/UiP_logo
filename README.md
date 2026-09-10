@@ -44,10 +44,10 @@ Le pack contient des icônes pour :
 
 <details open><summary><strong>⚡ Installation automatique</strong></summary>
 
-1. Télécharge le fichier `.streamDeckIconPack` depuis les **[Releases](https://github.com/Data-Spirit/UiP_logo/releases)**.
-2. Double-clique sur le fichier téléchargé.
-3. Stream Deck lance automatiquement l'installation du pack.
-4. Le pack apparaît ensuite dans la bibliothèque d'icônes de Stream Deck.
+- Télécharge le fichier `.streamDeckIconPack` depuis les **[Releases](https://github.com/Data-Spirit/UiP_logo/releases)**.
+- Double-clique sur le fichier téléchargé.
+- Stream Deck lance automatiquement l'installation du pack.
+- Le pack apparaît ensuite dans la bibliothèque d'icônes de Stream Deck.
 
 </details>
 
@@ -55,16 +55,16 @@ Le pack contient des icônes pour :
 
 > Si l'installation automatique ne fonctionne pas, tu peux installer le pack manuellement :
 
-	1. Télécharge le fichier `.streamDeckIconPack` depuis les **[Releases](https://github.com/Data-Spirit/UiP_logo/releases)**.
-	2. Fais une copie du fichier si tu souhaites conserver l'archive originale.
-	3. Renomme l'extension du fichier **`.streamDeckIconPack`** en **`.zip`**.
-		- Exemple : `Ultimate_Icon_Pack.streamDeckIconPack` → `Ultimate_Icon_Pack.zip`
-	4. Ouvre l'archive `.zip` avec l'Explorateur Windows ou un logiciel d'archivage comme 7-Zip.
-	5. Repère le dossier du pack contenu dans l'archive et copie-le dans le répertoire suivant :
+- Télécharge le fichier `.streamDeckIconPack` depuis les **[Releases](https://github.com/Data-Spirit/UiP_logo/releases)**.
+- Fais une copie du fichier si tu souhaites conserver l'archive originale.
+- Renomme l'extension du fichier **`.streamDeckIconPack`** en **`.zip`**.
+	- Exemple : `Ultimate_Icon_Pack.streamDeckIconPack` → `Ultimate_Icon_Pack.zip`
+- Ouvre l'archive `.zip` avec l'Explorateur Windows ou un logiciel d'archivage comme 7-Zip.
+- Repère le dossier du pack contenu dans l'archive et copie-le dans le répertoire suivant :
 
-	`%appdata%\Elgato\StreamDeck\IconPacks`
+`%appdata%\Elgato\StreamDeck\IconPacks`
 
-	6. Relance Stream Deck si nécessaire. Le pack devrait alors apparaître dans la bibliothèque d'icônes.
+6. Relance Stream Deck si nécessaire. Le pack devrait alors apparaître dans la bibliothèque d'icônes.
 
 >[!TIPS] Windows peut masquer les extensions de fichiers./
 > Si tu ne vois pas `.streamDeckIconPack`, active **Affichage → Afficher → Extensions de noms de fichiers** dans l'Explorateur Windows.
