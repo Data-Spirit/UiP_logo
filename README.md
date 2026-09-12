@@ -128,7 +128,7 @@ Ce pack est une compilation basée sur les projets suivants (merci à leurs aute
 > Licence complète : [CC BY-NC-SA 4.0][url_license]
 
 <!-- ============================== -->
-<!-- Link & Badge Definitions -->
+<!--    Link & Badge Definitions    -->
 <!-- ============================== -->
 
 <!-- Badges (shields.io images) -->
