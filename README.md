@@ -104,18 +104,6 @@ Si ce pack vous est utile, n'hésitez pas à mettre une étoile ⭐ sur le dép�
 
 ---
 
-## ⚠️ Avertissement important (Disclaimer)
-
-> **Toutes les icônes, logos et marques déposées individuels restent la propriété exclusive de leurs ayants droit respectifs** (entreprises, studios de jeux, services, etc.).
-> 
-> Spirit (l'auteur de ce pack) **ne revendique aucun droit** de propriété, de copyright ou de marque sur les icônes individuelles contenues dans cette compilation.
-> 
-> Ce pack est uniquement une collection personnelle et non commerciale réalisée pour des raisons de confort d'utilisation.
-> 
-> L'utilisation des icônes de ce pack ne confère aucun droit sur les marques ou contenus protégés qu'elles représentent.
-
----
-
 ## 🙏 Crédits et Sources
 
 - Auteur du pack : **[Spirit](https://github.com/Data-Spirit)**
@@ -132,11 +120,17 @@ Ce pack est une compilation basée sur les projets suivants (merci à leurs aute
 
 ## 📜 Licence
 
+> [!WARNING]
+> <h3 align="center"><code> ⚠️ Avertissement important ⚠️ </code></h3>
+>
+> **Toutes les icônes, logos et marques déposées individuels restent la propriété exclusive de leurs ayants droit respectifs** (entreprises, studios de jeux, services, etc.). <br>
+> Spirit (l'auteur de ce pack) **ne revendique aucun droit** de propriété, de copyright ou de marque sur les icônes individuelles contenues dans cette compilation. <br>
+> Ce pack est uniquement une collection personnelle et non commerciale réalisée pour des raisons de confort d'utilisation. <br> 
+> L'utilisation des icônes de ce pack ne confère aucun droit sur les marques ou contenus protégés qu'elles représentent.
+
 > [!IMPORTANT]
 > Ce pack (la compilation, l'organisation, les noms, les tags et le packaging) est sous licence :
-> 
-> **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)**
->
+> **`Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)`** <br>
 > ### Vous êtes libre de :
 > - Partager — copier et redistribuer le pack
 > - Adapter — remixer, transformer et construire à partir du pack
@@ -146,6 +140,5 @@ Ce pack est une compilation basée sur les projets suivants (merci à leurs aute
 > - **NonCommercial** — Vous n'avez pas le droit d'utiliser ce pack à des fins commerciales
 > - **ShareAlike** — Si vous modifiez le pack, vous devez distribuer vos contributions sous la même licence
 
-> 
 > Licence complète : [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
