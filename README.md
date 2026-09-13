@@ -39,16 +39,10 @@
 
 ---
 
-<!-- COMMENT UTILISER -->
-## 🛠️ Comment l'utiliser
-
-> **Télécharge** le fichier `.streamDeckIconPack` depuis les Releases → **installe-le** *(double-clic ou méthode manuelle)* → **retrouve tes icônes** directement dans la bibliothèque Stream Deck, prêtes à glisser sur tes touches.
->
-> Aucune configuration supplémentaire n'est nécessaire : les icônes sont déjà classées et taguées pour une recherche rapide dans l'éditeur Stream Deck.
-
----
-
+<!-- COMMENT UTILISER + INSTALLATION -->
 ## 📥 Installation
+
+> Pour utiliser ce pack sur ton Stream Deck, il te suffit de l'installer : aucune configuration supplémentaire n'est nécessaire, les icônes sont déjà classées et taguées pour une recherche rapide dans l'éditeur. Tu peux choisir entre deux méthodes d'installation ci-dessous.
 
 <details open>
 <summary><strong>⚡ Installation automatique</strong></summary>
