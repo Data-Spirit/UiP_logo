@@ -171,20 +171,21 @@ Ce pack est une compilation basée sur les projets suivants (merci à leurs aute
 <!-- LICENCE (CREDIT + IMPORTANT + WARNING) -->
 ## 📜 Licence
 
-**Crédit**
-- Auteur du pack : **[Spirit][github_user]**
-- Licence du pack : **[CC BY-NC-SA 4.0][url_license]**
-- Icônes individuelles : **propriété de leurs ayants droit respectifs**
+<h3 align="center"><code> ⚠️ Crédit ⚠️ </code></h3>
+
+> - Auteur du pack : **[Spirit][github_user]**
+> - Licence du pack : **[CC BY-NC-SA 4.0][url_license]**
+> - Icônes individuelles : **propriété de leurs ayants droit respectifs**
 
 > [!IMPORTANT]
 > Ce pack (la compilation, l'organisation, les noms, les tags et le packaging) est sous licence :
 > **`Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0)`**
 >
-> ### Vous êtes libre de :
+> <strong> Vous êtes libre de : </strong>
 > - Partager — copier et redistribuer le pack
 > - Adapter — remixer, transformer et construire à partir du pack
 >
-> ### Aux conditions suivantes :
+> <strong> Aux conditions suivantes : </strong>
 > - **Attribution** — Vous devez créditer l'auteur du pack
 > - **NonCommercial** — Vous n'avez pas le droit d'utiliser ce pack à des fins commerciales
 > - **ShareAlike** — Si vous modifiez le pack, vous devez distribuer vos contributions sous la même licence
