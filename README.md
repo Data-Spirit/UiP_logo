@@ -48,7 +48,7 @@
 <details open>
 <summary><h3>⚡ Installation automatique</h3></summary>
 
-> - Télécharge le fichier `.streamDeckIconPack` depuis les **[Releases][github_release]**
+> - Télécharge le fichier `.streamDeckIconPack` depuis les **[Releases][github_release]**, ou ici : [![Download](./docs/assets/download-loop.svg)][download_uip]
 > - Double-clique sur le fichier téléchargé.
 > - Stream Deck lance automatiquement l'installation du pack.
 > - Le pack apparaît ensuite dans la bibliothèque d'icônes de Stream Deck.
@@ -235,3 +235,6 @@ Ce pack est une compilation basée sur les projets suivants (merci à leurs aute
 [github_simpleicons]: https://github.com/simple-icons/simple-icons
 [github_dashboardicons]: https://github.com/homarr-labs/dashboard-icons
 [github_selfhst]: https://github.com/selfhst/icons
+
+<!-- Liens de téléchargement -->
+[download_uip]: https://github.com/Data-Spirit/UiP_logo/releases/download/v1.1/UIP-Ultimate_Icon_Pack_Logo.streamDeckIconPack
