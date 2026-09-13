@@ -230,7 +230,7 @@ Ce pack est une compilation basée sur les projets suivants (merci à leurs aute
 [github_license]: ./LICENSE.md
 [github_trademarks]: ./TRADEMARKS.md
 [github_user]: https://github.com/Data-Spirit
-[github_banner]: ./assets/banner_01.png
+[github_banner]: ./docs/img/UiP_banner_02.webp
 <!-- url_lien_absolu: https://raw.githubusercontent.com/Data-Spirit/UiP_logo/main/assets/banner_01.png -->
 [github_simpleicons]: https://github.com/simple-icons/simple-icons
 [github_dashboardicons]: https://github.com/homarr-labs/dashboard-icons
