@@ -42,10 +42,11 @@
 <!-- COMMENT UTILISER + INSTALLATION -->
 ## 📥 Installation
 
+> [!NOTE]
 > Pour utiliser ce pack sur ton Stream Deck, il te suffit de l'installer : aucune configuration supplémentaire n'est nécessaire, les icônes sont déjà classées et taguées pour une recherche rapide dans l'éditeur. Tu peux choisir entre deux méthodes d'installation ci-dessous.
 
 <details open>
-<summary><strong>⚡ Installation automatique</strong></summary>
+<summary><h3>⚡ Installation automatique</h3></summary>
 
 > - Télécharge le fichier `.streamDeckIconPack` depuis les **[Releases][github_release]**
 > - Double-clique sur le fichier téléchargé.
@@ -58,7 +59,7 @@
 > Si l'installation automatique ne fonctionne pas, tu peux installer le pack manuellement.
 
 <details>
-<summary><strong>🛠️ Installation manuelle</strong></summary>
+<summary><h3>🛠️ Installation manuelle</h3></summary>
 
 > - Télécharge le fichier `.streamDeckIconPack` depuis les **[Releases][github_release]**
 > - Fais une copie du fichier si tu souhaites conserver l'archive originale.
