@@ -20,6 +20,11 @@
 [![Unofficial][badge_unofficial]][github_repo]
 [![Latest Release][badge_release]][github_release]
 [![Streamdeck][badge_streamdeck]][url_elgato]
+<!-- Version du fichier 
+> Version : 3.3
+> Dernière modification : 2026-09-25
+-->
+
 [![Downloads][badge_downloads]][github_release]
 
 </div>

@@ -1,3 +1,8 @@
+<!-- Version du fichier 
+> Version : 2.0
+> Dernière modification : 2026-09-25
+-->
+
 # U.I.P. — Ultimate Icon Pack
 ## Cahier des charges / Prompt maître pour la création du logo
 
